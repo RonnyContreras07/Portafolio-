@@ -40,6 +40,11 @@ body{
 
 .imagen {
     width: 400px;
+}  
+
+.imagen__2 {
+    width: 280px;
+    
 }   
 
 .presentacion{
